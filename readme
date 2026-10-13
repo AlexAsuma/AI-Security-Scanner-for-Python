@@ -1,1 +1,9 @@
 open the .env file and enter your api key before running
+
+remember to remove the .example extension from the .env file or create a new .env file and paste your api key there. You can generate or find new api keys from google ai studio
+
+to run run the following command: python scanner.py Vulnerable.py
+
+Also before I forget you might encounter issues with the model I chose so please feel free to change the ai model to the one that is available to you at the time
+
+GOOD LUCK!! AND HAPPY CODING!!
